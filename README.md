@@ -1,13 +1,6 @@
  ### Hi there 👋
 
 
-
-- 🔭 I’m currently working on various projects
-- 🌱 I’m currently learning AI and ML
-- 👯 I’m looking to collaborate with developers on any project or hackathon.
-- 💬 Ask me about ... anything
-- ⚡ Fun fact: Love exploring
-
 ![](https://komarev.com/ghpvc/?username=itsdevansh)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devanshkumar01/)
   
